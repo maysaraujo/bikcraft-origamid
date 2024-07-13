@@ -1,0 +1,7 @@
+PHPMailer
+docs/phpdoc/
+test/message.txt
+test/testbootstrap.php
+.idea
+build/
+libs
